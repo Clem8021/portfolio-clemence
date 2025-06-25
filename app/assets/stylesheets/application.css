@@ -1,0 +1,21 @@
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background: #fdf9f3;
+  color: #1a1a1a;
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+h1, h2 {
+  color: #14213d;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+a {
+  color: #e07a5f;
+  text-decoration: none;
+}
